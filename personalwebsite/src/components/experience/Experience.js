@@ -56,7 +56,21 @@ function Experience() {
             <article className="experience__detils">
             <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Git,Bitbucket and Github</h4>
+              <h4>Git</h4>
+              <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__detils">
+            <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>Bitbucket</h4>
+              <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__detils">
+            <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>Github</h4>
               <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -91,7 +105,14 @@ function Experience() {
             <article className="experience__detils">
             <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>TFS & Azure devops services</h4>
+              <h4>TFS</h4>
+              <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__detils">
+            <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>Azure devops</h4>
               <small className="text-light">Experienced</small>
               </div>
             </article>
